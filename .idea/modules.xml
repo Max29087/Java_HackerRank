@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigInteger/BigInteger.iml" filepath="$PROJECT_DIR$/BigInteger/BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Exception Handling/Java Exception Handling.iml" filepath="$PROJECT_DIR$/Java Exception Handling/Java Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java If-Else/Java If-Else.iml" filepath="$PROJECT_DIR$/Java If-Else/Java If-Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" filepath="$PROJECT_DIR$/Java Output Formatting/Java Output Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout I/Java Stdin and Stdout I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" filepath="$PROJECT_DIR$/Java Stdin and Stdout II/Java Stdin and Stdout II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Varargs - Simple Addition/Java Varargs - Simple Addition.iml" filepath="$PROJECT_DIR$/Java Varargs - Simple Addition/Java Varargs - Simple Addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java1DArray/Java1DArray.iml" filepath="$PROJECT_DIR$/Java1DArray/Java1DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAbstractClass/JavaAbstractClass.iml" filepath="$PROJECT_DIR$/JavaAbstractClass/JavaAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" filepath="$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInterface/JavaInterface.iml" filepath="$PROJECT_DIR$/JavaInterface/JavaInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoops_I/JavaLoops_I.iml" filepath="$PROJECT_DIR$/JavaLoops_I/JavaLoops_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLoops_II/JavaLoops_II.iml" filepath="$PROJECT_DIR$/JavaLoops_II/JavaLoops_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrimalityTest/JavaPrimalityTest.iml" filepath="$PROJECT_DIR$/JavaPrimalityTest/JavaPrimalityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStaticInitializerBlock/JavaStaticInitializerBlock.iml" filepath="$PROJECT_DIR$/JavaStaticInitializerBlock/JavaStaticInitializerBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStringReverse/JavaStringReverse.iml" filepath="$PROJECT_DIR$/JavaStringReverse/JavaStringReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStringsIntroduction/JavaStringsIntroduction.iml" filepath="$PROJECT_DIR$/JavaStringsIntroduction/JavaStringsIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSubstring/JavaSubstring.iml" filepath="$PROJECT_DIR$/JavaSubstring/JavaSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_HackerRank.iml" filepath="$PROJECT_DIR$/.idea/Java_HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaComprator/javaComprator.iml" filepath="$PROJECT_DIR$/javaComprator/javaComprator.iml" />
+    </modules>
+  </component>
+</project>
