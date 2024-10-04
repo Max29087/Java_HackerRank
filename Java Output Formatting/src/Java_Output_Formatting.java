@@ -7,7 +7,7 @@ public class Java_Output_Formatting {
         for (int i = 0; i < 3; i++) {
             String c = input.next();
             int n1 = input.nextInt();
-
+            System.out.printf("%-15s%03d%n", c,n1);
         }
         System.out.println("================================");
 
